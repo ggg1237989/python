@@ -1,0 +1,3 @@
+name = input("Ваше имя:")
+age_str = input("Ваш возраст:")
+subjects_str = input("Любимые предметы (через запятую):"
