@@ -1,0 +1,8 @@
+my_list = [100, 2, 3]
+my_tuple = (100, 2, 3)
+my_string = "cat"
+
+
+print("Список:", my_list)
+print("кортеж:", my_tuple)
+print("строка:", my_string)
