@@ -1,0 +1,3 @@
+mesto = int(input("Введите место:"))
+
+print ((mesto-1) // 4+1)
