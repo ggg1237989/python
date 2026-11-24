@@ -1,0 +1,6 @@
+import math
+import random
+x = random.uniform(-10, 10)
+y = random.uniform(-10, 10)
+print (x, y)
+print (math.sqrt(x ** 2 + y ** 2)
